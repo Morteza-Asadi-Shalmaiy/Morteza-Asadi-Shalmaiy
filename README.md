@@ -6,11 +6,4 @@
     <a target="_blank" href="https://www.linkedin.com/in/omidnikrah/">LinkedIn</a> •
     <a target="_blank" href="https://twitter.com/omidnikrah">Twitter</a>
   </p>
-  <br />
-  <br />
-  <br />
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark" />
-  <br />
-  <br />
-  <br />
 </div>
