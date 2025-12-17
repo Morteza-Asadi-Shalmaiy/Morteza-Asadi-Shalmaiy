@@ -14,7 +14,4 @@
   <br />
   <br />
   <br />
-  <a href="https://github.com/omidnikrah/profile-activity-generator">
-    <img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png" />
-  </a>
 </div>
